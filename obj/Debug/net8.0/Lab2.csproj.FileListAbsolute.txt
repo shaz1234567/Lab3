@@ -1,0 +1,12 @@
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.sourcelink.json
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/shazabali/Repos/cs11dotnet7/vscode/Chapter04/Lab2/obj/Debug/net8.0/ref/Lab2.dll
